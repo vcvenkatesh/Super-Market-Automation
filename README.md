@@ -1,4 +1,4 @@
-# SuperMarketAutomationSoftware
+# Super Market Automation Software
 
 This is a software used for Super Market Automation written in programming language JAVA.
 
